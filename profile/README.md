@@ -11,12 +11,12 @@ The highest voted submission makes it to the Hall of Flames! :fire::fire::fire:
 
 ## Get Involved!
 The concept is super simple:
-- :herb: Sign in with your lens profile at https://staging.nftornot.com/
+- :herb: Sign in with your lens profile at https://nftornot.com/
 - :point_right: Now, either start voting on AI-generated images submitted by users already
 - :magic_wand: Or participate in the fun by generating images on "Trending Themes", use our fire filters to take it to the next level and submit your hottest images to vote
 - :stopwatch: Share your submission with your lens frens, and watch your submissions get :fire:
 - :moneybag: Collect the NFTs to show your support; the collect proceeds go to the user who generated it.
-Don't be left out in the cold - head to https://staging.nftornot.com/ now and get started! 
+Don't be left out in the cold - head to https://nftornot.com/ now and get started! 
 
 ## Repositories
 - [non-frontend](https://github.com/NFTorNOT/non-frontend): NFTorNot Frontend Repository
