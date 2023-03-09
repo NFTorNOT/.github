@@ -21,10 +21,3 @@ Don't be left out in the cold - head to https://nftornot.com/ now and get starte
 - [non-backend](https://github.com/NFTorNOT/non-backend): NFTorNot Backend Repository
 
 ## Built by the team at [True Sparrow](http://truesparrow.com)
-
-We are a product studio with vast experience in web and mobile app development. We help companies design, develop and launch path-breaking products.
-
-Got any projects for us? Need any dev help?
-Contact us now at hi@truesparrow.com 
-
-©True Sparrow Systems Pvt. Ltd., 2023
