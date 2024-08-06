@@ -10,12 +10,11 @@
 
 ## Get Involved!
 The concept is super simple:
-- :herb: Sign in with your Lens profile at https://nftornot.com/
+- :herb: Sign in with your Lens profile.
 - :point_right: Now, either start voting on AI-generated images submitted by other users, or
-- :magic_wand: Participate in the fun by generating images on trending themes. Use our filters to take it to the next level and submit your hottest images to vote
+- :magic_wand: Participate in the fun by generating images on trending themes. Use our filters to take it to the next level and submit your hottest images to vote.
 - :stopwatch: Share your submission with your Lens Frens, and watch your submissions get :fire:
 - :moneybag: Collect the NFTs to show your support; the collect proceeds go to the user who generated it.
-Don't be left out in the cold - head to https://nftornot.com/ now and get started! 
 
 ## Repositories
 - [non-frontend](https://github.com/NFTorNOT/non-frontend): NFTorNot Frontend Repository
